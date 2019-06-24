@@ -36,3 +36,25 @@ Gateways connect the end devices to the [LoRa Gateway Bridge](https://www.lorase
 	}
 }
 ```
+
+Gateway is set up on the RPi device with the following information:
+
+|             |                  |
+| ----------- | ---------------- |
+| mac address | b827ebffff70c80a |
+| user        | pi               |
+| pass        | jaber6600000     |
+
+
+## End Devices
+End devices connect to the gateway and send/recieve information through it.
+
+Device address: `26 01 1b 84`
+
+Network session key: `b6 66 ea 9c 9a ff 94 7c f3 37 79 77 55 f6 69 34`
+
+Application session key: `c0 b2 c7 46 17 4d 82 f1 be 49 88 b8 08 63 63 f2`
+
+LoraWan Mac version: `1.0.1`
+
+Device EUI: `00a9fd1d3591f99f`
