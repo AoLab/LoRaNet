@@ -48,6 +48,7 @@ Gateway is set up on the RPi device with the following information:
 
 ## End Devices
 End devices connect to the gateway and send/recieve information through it.
+End device is running on the Arduino device with the following information:
 
 Device address: `26 01 1b 84`
 
